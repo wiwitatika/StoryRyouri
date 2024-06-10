@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Ryouri</string>
+    <string name="signup">Register</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Share your cooking experiences with Ryouri, creating memories at every meal</string>
+    <string name="title_welcome_page">Ryouri</string>
+    <string name="title_signup_page">Please complete your data below</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Enter your data to login</string>
+    <string name="title_login_page">Ready to share your cooking experience?</string>
+    <string name="name">Name</string>
+    <string name="message_main_page">Enjoy sharing your cooking experiences at Ryouri</string>
+    <string name="greeting">Hello %1$s,</string>
+    <string name="logout">Logout</string>
+    <string name="change_language">Change language</string>
+    <string name="alert">Alert</string>
+    <string name="ok">Okay</string>
+    <string name="please_complete_data">Please complete your data first</string>
+    <string name="please_complete_data_to_login">Please complete your data first to login</string>
+    <string name="title_success">Hooray!</string>
+    <string name="message_success">Your account is ready. Come on, log in and share your cooking experience at Ryouri</string>
+    <string name="login_success">You have successfully logged in. Can not wait to share your experiences, huh?</string>
+    <string name="lanjut">Next</string>
+    <string name="retry">Retry</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="description_placeholder">Write a description here</string>
+    <string name="alert_password">The password must not be less than 8 characters</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="include_location">Add Location</string>
+
+</resources>

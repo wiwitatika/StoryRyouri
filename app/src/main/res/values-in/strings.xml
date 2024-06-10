@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ryouri</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Berbagi pengalaman memasakmu dengan Ryouri, menciptakan kenangan di setiap hidangan</string>
+    <string name="title_welcome_page">Ryouri</string>
+    <string name="title_signup_page">Silahkan lengkapi data dirimu di bawah ini</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="message_login_page">Masukkan datamu untuk login</string>
+    <string name="title_login_page">Siap berbagi pengalaman memasakmu?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat berbagi pengalaman masakmu di Ryouri</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="alert">Peringatan</string>
+    <string name="ok">Oke</string>
+    <string name="please_complete_data">Silahkan lengkapi data anda terlebih dahulu</string>
+    <string name="please_complete_data_to_login">Silahkan lengkapi data anda terlebih dahulu untuk login</string>
+    <string name="title_success">Hore!</string>
+    <string name="message_success">Akunmu sudah jadi nih. Yuk, login dan bagikan pengalaman memasakmu di Ryouri</string>
+    <string name="login_success">Anda berhasil login. Sudah tidak sabar untuk berbagi pengalaman ya?</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="retry">Coba kembali</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="description_placeholder">Tulis deskripsi disini</string>
+    <string name="alert_password">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="include_location">Tambahkan Lokasi</string>
+</resources>
